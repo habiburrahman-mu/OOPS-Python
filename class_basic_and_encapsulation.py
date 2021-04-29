@@ -33,6 +33,6 @@ for person in person_list:
 	if person.get_year_of_birth() >= 1990:
 		print(person.get_summary())
 
-class Student(Person):
-	def __init__(self):
+# class Student(Person):
+# 	def __init__(self):
 		
