@@ -2,7 +2,7 @@ class Rectangle:
 	pass
 
 
-#Create instances
+# Create instances
 rect1 = Rectangle() 
 rect2 = Rectangle()
 
