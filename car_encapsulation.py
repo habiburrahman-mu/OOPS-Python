@@ -24,5 +24,5 @@ audi = Car(300, 'black')
 ford.set_speed(300)
 
 print(ford.get_speed(), ford.get_color())
-# print(honda.speed, honda.color)
-# print(audi.speed, audi.color)
+print(honda.get_speed(), honda.get_color())
+print(audi.get_speed(), audi.get_color())
