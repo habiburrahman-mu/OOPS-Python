@@ -21,5 +21,13 @@ Object Oriented Programming using Python
 - [car_encapsulation.py](car_encapsulation.py)
 - [rectangle_encapsulation.py](rectangle_encapsulation.py)
 
+#### Private Method
+
+*Private methods are those methods which can't be accessed in other class except the class in which they are declared. We can perform the functionality only within the class in which they are declared.*
+
+*Private methods are useful for breaking tasks up into smaller parts, or for preventing duplication of code which is needed often by other methods in a class, but should not be called outside of that class.*
+
+- [hello.py](hello.py)
+
 - - -
 
