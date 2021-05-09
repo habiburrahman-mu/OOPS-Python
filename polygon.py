@@ -6,9 +6,9 @@
 '''
 
 class Polygon:
-	def set_value(self, __width = None, __height = None):
-		self.__width = __width
-		self.__height = __height
+	def set_value(self, width = None, height = None):
+		self.__width = width
+		self.__height = height
 
 	'''
 	As the __width and __height are private can not be accessed
