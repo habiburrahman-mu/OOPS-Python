@@ -30,4 +30,14 @@ Object Oriented Programming using Python
 - [hello.py](hello.py)
 
 - - -
+### Inheritence
+
+*It is a mechanism where you can to derive a class from another class for a hierarchy of classes that share a set of attributes and methods.*
+
+*Inheritance is a mechanism in which one class acquires the property of another class. For example, a child inherits the traits of his/her parents. With inheritance, we can reuse the fields and methods of the existing class. Hence, inheritance facilitates Reusability and is an important concept of OOPs.*
+
+- [polygon.py](polygon.py)
+
+
+- - -
 
