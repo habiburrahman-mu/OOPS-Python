@@ -30,7 +30,7 @@ Object Oriented Programming using Python
 - [hello.py](hello.py)
 
 - - -
-### Inheritence
+### inheritance 
 
 *It is a mechanism where you can to derive a class from another class for a hierarchy of classes that share a set of attributes and methods.*
 
@@ -38,6 +38,12 @@ Object Oriented Programming using Python
 
 - [polygon.py](polygon.py)
 
+#### Multiple inheritance
+
+- [human.py](human.py)
+
 
 - - -
+
+
 
