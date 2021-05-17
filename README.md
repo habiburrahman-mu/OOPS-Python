@@ -30,7 +30,7 @@ Object Oriented Programming using Python
 - [hello.py](hello.py)
 
 - - -
-### inheritance 
+### Inheritance
 
 *It is a mechanism where you can to derive a class from another class for a hierarchy of classes that share a set of attributes and methods.*
 
@@ -45,5 +45,13 @@ Object Oriented Programming using Python
 
 - - -
 
+### `super()` function
+
+The `super()` function is used to give access to methods and properties of a parent or sibling class. The `super()` function returns an object that represents the parent class. It allows you to call methods of the superclass in your subclass. The primary use case of this is to extend the functionality of the inherited method.
+
+- [super_parent_child.py](super_parent_child.py)
 
 
+
+
+- - -
