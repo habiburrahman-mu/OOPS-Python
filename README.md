@@ -65,4 +65,18 @@ Object Oriented Programming using Python
 
 - [salary_aggregation.py](salary_aggregation.py)
 
+- - - 
+
+### Abstract Class and Method
+
+*Abstraction is the concept of object-oriented programming that "shows" only essential attributes and "hides" unnecessary information. The main purpose of abstraction is hiding the unnecessary details from the users. Abstraction is selecting data from a larger pool to show only relevant details of the object to the user. It helps in reducing programming complexity and efforts. It is one of the most important concepts of OOPs.
+*
+
+*Abstract Class is a type of class in OOPs, that declare one or more abstract methods. These classes can have abstract methods as well as concrete methods. A normal class cannot have abstract methods. An abstract class is a class that contains at least one abstract method.
+*
+
+*Abstract Method is a method that has just the method definition but does not contain implementation. A method without a body is known as an Abstract Method. It must be declared in an abstract class. The abstract method will never be final because the abstract class must implement all the abstract methods.
+*
+
+- [square_abstraction](square_abstraction.py)
 - - -
