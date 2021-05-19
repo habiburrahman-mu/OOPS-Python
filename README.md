@@ -59,3 +59,10 @@ Object Oriented Programming using Python
 - [salary_composition.py](salary_composition.py)
 
 - - -
+### Aggregation
+
+*Aggregation is a special form of association. It is a relationship between two classes like association, however its a directional association, which means it is strictly a one way association. It represents a HAS-A relationship.*
+
+- [salary_aggregation.py](salary_aggregation.py)
+
+- - -
