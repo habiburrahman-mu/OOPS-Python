@@ -51,7 +51,11 @@ Object Oriented Programming using Python
 
 - [super_parent_child.py](super_parent_child.py)
 
+- - -
+### Composition
 
+*Composition is one of the fundamental concepts in object-oriented programming. It describes a class that references one or more objects of other classes in instance variables. This allows you to model a has-a association between objects. The main reason to use composition is that it allows you to reuse code without modeling an is-a association as you do by using inheritance. That allows stronger encapsulation and makes your code easier to maintain*
 
+- [salary_composition.py](salary_composition.py)
 
 - - -
