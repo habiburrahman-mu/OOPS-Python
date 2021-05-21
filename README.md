@@ -78,5 +78,30 @@ Object Oriented Programming using Python
 *Abstract Method is a method that has just the method definition but does not contain implementation. A method without a body is known as an Abstract Method. It must be declared in an abstract class. The abstract method will never be final because the abstract class must implement all the abstract methods.
 *
 
-- [square_abstraction](square_abstraction.py)
+- [square_abstraction.py](square_abstraction.py)
+
+- - -
+
+### Duck Typing
+
+*Duck typing is a concept related to dynamic typing, where the type or the class of an object is less important than the methods it defines. When you use duck typing, you do not check types at all. Instead, you check for the presence of a given method or attribute.*
+
+- [ide_ductyping.py](ide_ductyping.py)
+
+- - -
+
+### Operator Overloading
+
+*Operator Overloading means giving extended meaning beyond their predefined operational meaning. For example operator + is used to add two integers as well as join two strings and merge two lists. It is achievable because ‘+’ operator is overloaded by int class and str class. You might have noticed that the same built-in operator or function shows different behavior for objects of different classes, this is called Operator Overloading.*
+
+- [student_operator_overloading.py](student_operator_overloading.py)
+
+- - -
+
+### Polymorphism
+
+Polymorphism is the ability of an object to take on many forms. The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object.
+
+
+
 - - -
