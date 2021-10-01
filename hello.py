@@ -10,7 +10,7 @@ class Hello:
 	def public_method(self):
 		print(self.__c)
 		print('public')
-		hello.__private_method()
+		self.__private_method()
 
 hello = Hello('name')
 hello.public_method()
